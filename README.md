@@ -45,8 +45,8 @@ To run this analysis, please follow the steps below in a Jupyter or Kaggle envir
 
 1.  **Clone the repository**:
     ```bash
-    git clone [YOUR_GITHUB_LINK]
-    cd [REPOSITORY_NAME]
+    git clone https://github.com/Alouach-07/ai-backdoor-trigger-comparison.git
+    cd ai-backdoor-trigger-comparison
     ```
 2.  **Install dependencies**: The code requires `torch`, `torchvision`, `Pillow`, `tqdm`, and `matplotlib`.
     ```bash
